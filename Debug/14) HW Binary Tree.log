@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Tree.cpp
+  Generating Code...
+F:\ITStep\2 курс\ДЗ\14) HW Binary Tree\Tree.cpp(73): warning C4715: 'Tree::Search': not all control paths return a value
+  14) HW Binary Tree.vcxproj -> F:\ITStep\2 курс\ДЗ\14) HW Binary Tree\Debug\14) HW Binary Tree.exe
